@@ -10,6 +10,11 @@ the Getting and Cleaning Data Course Project, provided by Johns Hopkins
 University as part of the Data Science Specialization.  The result of this 
 analysis is a tidy data set with merged training and test data that includes variable labels, activity labels, subject identification, and summaries of each measurement for each subject and activity.
 
+## Requirements
+
+To perform this analysis, the UCI HAR Dataset must be located in your working
+directory.  The dataset is available at: <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>
+
 ## Scripts
 
 **run_analysis.R**
